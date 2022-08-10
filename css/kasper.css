@@ -199,7 +199,7 @@ header nav .form i {
 /* landing */
 .landing {
     min-height: 100vh;
-    background-image:url("/image/banner-bg.png") ;
+    background-image:url("../image/banner-bg.png") ;
     background-size: cover;
     position: relative;
 }
@@ -333,7 +333,7 @@ grid-row-gap: 60px;
     padding-bottom: var(--sec-padding);
     height: 600px;
     position: relative ;
-    background-image: url(/image/b6.jpg);
+    background-image: url(../image/b6.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -548,7 +548,7 @@ grid-row-gap: 60px;
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
     text-align: center;
-    background-image: url(/image/b10.jpg);
+    background-image: url(../image/b10.jpg);
     background-size: cover;
     position: relative;
 }
@@ -711,7 +711,7 @@ grid-row-gap: 60px;
 .quote {
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image:url(/image/b5.jpg);
+    background-image:url(../image/b5.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -834,7 +834,7 @@ grid-row-gap: 60px;
 .subscribe {
     padding-top: var(--sec-padding);
     padding-bottom: var(--sec-padding);
-    background-image: url('/image/earth.jpg');
+    background-image: url('../image/earth.jpg');
     color: white;
     position: relative;
     background-size: cover;
@@ -980,7 +980,7 @@ grid-row-gap: 60px;
 .footer {
     padding-top: calc(var(--sec-padding) / 2);
     padding-bottom: calc(var(--sec-padding) / 2);
-    background-image: url(/image/earth2.jpg);
+    background-image: url(../image/earth2.jpg);
     background-size: cover;
     position: relative;
     color: white;
